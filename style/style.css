@@ -1,0 +1,29 @@
+
+@font-face {
+    font-family: Peyda;
+    src: url('../fonts/PeydaWeb-Black.woff2');
+}
+html {
+    padding: 0%;
+    margin: 0%;
+    background-color:  #f1f1f1;
+}
+
+body {
+    margin: 2% 12%;
+    padding: 2% 4%;
+    border-radius: 1.2em;
+    text-align: center;
+    font-family: Peyda,Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    color:  lightslategrey;
+    background-color:#f6f6f6;
+    box-shadow: 0em 0em 0.5em rgba(80, 95, 231, 0.808);
+    
+}
+
+hr {
+    max-width: 50%;
+    border: 1px solid rgb(186, 198, 250);
+
+}
